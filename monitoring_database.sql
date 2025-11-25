@@ -1,7 +1,7 @@
 /* ---------------------------------------------------------
    Projeto: Banco de Dados de Monitoramento (SRE/Infra)
    Autor: Andrpe Martins
-   Descrição: Banco de dados SQL para monitoramento de infraestrutura. Inclui tabelas de hosts, métricas (CPU, RAM, disco) e logs de eventos, além de consultas avançadas com CTEs, Window Functions e detecção de alertas. Projeto ideal para demonstrar domínio técnico em SQL aplicado a SRE/Infra
+   Descrição: Banco de dados SQL para monitoramento de infraestrutura. Inclui tabelas de hosts, métricas (CPU, RAM, disco) e logs de eventos, além de consultas avançadas com CTEs, Window Functions e detecção de alertas.
    Banco de dados para armazenar informações de hosts,
    métricas de CPU/RAM/Disco e logs de eventos.
 
